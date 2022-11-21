@@ -7,7 +7,7 @@ and Tampermonkey will prompt you to install it
 
 Before you use the script if you are not on the **twit.social** server you will need to change this line in the code to your server.
 
-**const myServer = "twit.social";**
+**const myServer = "twit.social";** On line 112
 
 The script add two functions. The first one adds a new button to remote profiles, which when clicked will take you to the profile on your own server. This avoids having to copy the user handle then do a search to find the profile
 
