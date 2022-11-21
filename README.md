@@ -16,3 +16,6 @@ The script add two functions. The first one adds a new button to remote profiles
 The second function adds a button to your profile page that allows you to filter your followers for any you haven't followed back.
 
 ![alt text](https://github.com/1Syler/Mastodon-Userscript/blob/main/newBtn2.png)
+
+
+If you have any questions or problems I'm on Mastodon https://twit.social/@syler
