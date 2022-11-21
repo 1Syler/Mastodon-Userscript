@@ -5,7 +5,7 @@ To use this script you need to install the Tampermonkey browser extension https:
 Once you have installed Tampermonkey open the script https://github.com/1Syler/Mastodon-Userscript/raw/main/functions.user.js
 and Tampermonkey will prompt you to install it
 
-Before you user the script if you are not on the **twit.social** server you will need to change this line in the code to your server.
+Before you use the script if you are not on the **twit.social** server you will need to change this line in the code to your server.
 
 **const myServer = "twit.social";**
 
